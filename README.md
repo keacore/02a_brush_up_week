@@ -17,7 +17,19 @@ In order for you to follow this elective (and many of the other electives on CS 
 My suggestion is that you look at the tutorials on [w3school.org](http://www.w3schools.com)    
 * [html](http://www.w3schools.com/html/)
 * [css](http://www.w3schools.com/css/)    
-And then do these [exercises](xxx). If you can do this you are "on track" and could be happy :)
+And then do these [exercises](xxx). If you can do this you are "on track" and should be happy :)
+
+## Git and GitHub
+
+
+## C# exercises
+C# is the language used in an Asp.Net Core application.    
+You should be familiar with this language before we start on our MVC ASP.NET Core projects.    
+The good thing is that it is almost identical to Java, so the task of learning this language is not so big.
+
+You should complete these [tutorials](https://www.microsoft.com/net/tutorials/csharp/getting-started)    
+until the [Understanding Namespaces](https://www.microsoft.com/net/tutorials/csharp/getting-started/namespaces). The rest of the tutorials will come later.
+
 
 
 * https://help.github.com/articles/creating-a-pull-request-from-a-fork/
