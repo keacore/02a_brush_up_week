@@ -5,7 +5,7 @@ This week there is no formal teachings, but instead you should use the time on g
 
 The reason why you should be able to use these topics is that  we will work with these technologies a lot this semester, and there is not any dirrect teachings in this (since you already have had these teachings on 2nd or 3rd semester).    
 
-** You will be needing theese skills next week when you do the first mandatory assignment. **
+**You will be needing theese skills next week when you do the first mandatory assignment.**
 
 The areas you should look into is:
 
