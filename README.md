@@ -14,7 +14,7 @@ The areas you should look into is:
 3. C# syntax exercises (this one is new, but it is almost like Java)    
 
 ## HTML & CSS
-In order for you to follow this elective (and many of the other electives on CS to) you should have some basic knowlege about html5 & css. This elective will build on this knowlege, so it is a good idea to look a bit into this.    
+In order for you to follow this elective (and many of the other electives on CS to) you should have some basic knowlege about html & css. This elective will build on this knowlege, so it is a good idea to look a bit into this.    
 
 My suggestion is that you look at the tutorials on [w3school.org](http://www.w3schools.com)    
 * [html](http://www.w3schools.com/html/)
@@ -22,7 +22,9 @@ My suggestion is that you look at the tutorials on [w3school.org](http://www.w3s
 And then do these [exercises](xxx). If you can do this you are "on track" and should be happy :)
 
 ## Git and GitHub
-
+On your Second Semester you learned about Git, and you where using Github or Bitbucket for your online Repositories. In this Elective we will also be using git, and therefor you should be up to date.    
+You should go through these [tutorials](xxx). (These tutorials use Bitbucket for its online repositories, you are welcome to use Github if you want).     
+If you fell that you can master these tutorials you are "on track" and should be happy :)
 
 ## C# exercises
 C# is the language used in an Asp.Net Core application.    
