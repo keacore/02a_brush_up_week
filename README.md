@@ -36,4 +36,7 @@ C# is the language used in an Asp.Net Core application.
 You should be familiar with this language before we start on our MVC ASP.NET Core projects.    
 The good thing is that it is almost identical to Java, so the task of learning this language is not so big.
 
-You should complete these [tutorials](https://www.microsoft.com/net/tutorials/csharp/getting-started), until the [Understanding Namespaces](https://www.microsoft.com/net/tutorials/csharp/getting-started/namespaces). The rest of the tutorials will come later.
+You should complete these 
+* [tutorials](https://www.microsoft.com/net/tutorials/csharp/getting-started) <sub>_(until the [Understanding Namespaces](https://www.microsoft.com/net/tutorials/csharp/getting-started/namespaces))_</sub>.     
+
+The rest of the tutorials will come later.
