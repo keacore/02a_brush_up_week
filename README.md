@@ -21,6 +21,7 @@ My suggestion is that you look at the tutorials on [w3school.org](http://www.w3s
 * [css](http://www.w3schools.com/css/)    
 And then do these 
 * [exercises](xxx). 
+
 If you can do this you are "on track" and should be happy :)
 
 ## Git and GitHub
