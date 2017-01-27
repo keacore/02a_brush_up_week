@@ -27,7 +27,7 @@ If you can do this you are "on track" and should be happy :)
 ## Git and GitHub
 On your Second Semester you learned about Git, and you where using Github or Bitbucket for your online Repositories. In this Elective we will also be using git, and therefor you should be up to date.    
 * You should go through these [tutorials](xxx).     
---(These tutorials uses Bitbucket for its online repositories, you are welcome to use Github if you want).--      
+<small>(These tutorials uses Bitbucket for its online repositories, you are welcome to use Github if you want).</small>      
 
 If you fell that you can master these tutorials you are "on track" and should be happy :)
 
@@ -37,6 +37,6 @@ You should be familiar with this language before we start on our MVC ASP.NET Cor
 The good thing is that it is almost identical to Java, so the task of learning this language is not so big.
 
 You should complete these 
-* [tutorials](https://www.microsoft.com/net/tutorials/csharp/getting-started) --(until the [Understanding Namespaces](https://www.microsoft.com/net/tutorials/csharp/getting-started/namespaces))--.     
+* [tutorials](https://www.microsoft.com/net/tutorials/csharp/getting-started) (until the [Understanding Namespaces](https://www.microsoft.com/net/tutorials/csharp/getting-started/namespaces)).     
 
 The rest of the tutorials will come later.
