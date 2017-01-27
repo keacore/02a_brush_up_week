@@ -19,7 +19,9 @@ In order for you to follow this elective (and many of the other electives on CS 
 My suggestion is that you look at the tutorials on [w3school.org](http://www.w3schools.com)    
 * [html](http://www.w3schools.com/html/)
 * [css](http://www.w3schools.com/css/)    
-And then do these [exercises](xxx). If you can do this you are "on track" and should be happy :)
+And then do these 
+* [exercises](xxx). 
+If you can do this you are "on track" and should be happy :)
 
 ## Git and GitHub
 On your Second Semester you learned about Git, and you where using Github or Bitbucket for your online Repositories. In this Elective we will also be using git, and therefor you should be up to date.    
