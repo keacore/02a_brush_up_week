@@ -25,6 +25,7 @@ And then do these [exercises](xxx). If you can do this you are "on track" and sh
 On your Second Semester you learned about Git, and you where using Github or Bitbucket for your online Repositories. In this Elective we will also be using git, and therefor you should be up to date.    
 * You should go through these [tutorials](xxx).     
 <sub>_(These tutorials uses Bitbucket for its online repositories, you are welcome to use Github if you want)._</sub>      
+
 If you fell that you can master these tutorials you are "on track" and should be happy :)
 
 ## C# exercises
