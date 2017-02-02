@@ -26,8 +26,7 @@ It is not nessesary to go into all the details, and if you understand the overal
 On your Second Semester you learned about Git, and you where using Github or Bitbucket for your online Repositories. In this Elective we will also be using git, and therefor you should be up to date.    
 
 You should go through these 
-* [tutorials](https://github.com/keacore/GitTypicalUseCases/blob/master/README.md#git---typical-use-cases).     
-_(These tutorials uses Bitbucket for its online repositories, you are welcome to use Github if you want)._     
+* [tutorials](https://github.com/keacore/GitTypicalUseCases/blob/master/README.md#git---typical-use-cases). _(These tutorials uses Bitbucket for its online repositories, you are welcome to use Github if you want)._     
 
 If you fell that you can master these tutorials you are "on track" and should be happy :)
 
